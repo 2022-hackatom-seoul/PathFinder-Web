@@ -16,7 +16,7 @@ function Assets() {
         <div className="MyAssets">
             <div className="MyAssets-bar">
             <h2>My Assets</h2>
-            <select name="job">
+            <select name="chain">
     <option value="">Select Chain</option>
     <option value="Juno">Juno</option>
     <option value="Osmosis" selected="selected">Osmosis</option>

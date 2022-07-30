@@ -1,6 +1,7 @@
 import './index.css';
 import Nav from '../Nav';
 
+import Logo from '../../images/Logo.png';
 import Halley from '../../images/halley.png';
 import { Route, Link,Routes } from 'react-router-dom';
 function Main() {
@@ -9,13 +10,17 @@ function Main() {
 
       <Nav/>
       <div className="Main-section">
-      <div>
-          냐옹
       </div>
-      <div>
-        냐옹
+      <div className="Main-content">
+          <h1>LOW RISK</h1>
+          <h1>HIGH RETURN</h1>
       </div>
-      </div>
+      <img style={{width:'50%',
+    height: '200px',
+    margin: 'auto',
+    position: 'absolute',
+    top: '60vh',
+    left: '15%'}}src={Logo}/>
       <div className="informUs">
       <Link to='/result'>냐옹</Link>
       <img className="HalleyLogo" src={Halley}></img>

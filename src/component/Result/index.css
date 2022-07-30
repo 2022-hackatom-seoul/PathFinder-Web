@@ -1,8 +1,10 @@
 .carouselContent {
-    width: 100px;
+    width: 90px;
     height: 500px;
-    background-color: rgb(197, 197, 197);
+    background-color: rgba(197, 197, 197, 0);
     margin: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .Result-section {
@@ -12,4 +14,22 @@
     position: absolute;
     top: 30vh;
     left: 15%;
+}
+
+.carouselContent::-webkit-scrollbar {
+    width: 8px;
+    /* 스크롤바의 너비 */
+}
+
+.carouselContent::-webkit-scrollbar-thumb {
+    height: 30%;
+    /* 스크롤바의 길이 */
+    background: linear-gradient(to bottom, rgba(202, 55, 224, 1) 0%, rgba(34, 159, 211, 1) 100%);
+    /* 스크롤바의 색상 */
+    border-radius: 10px;
+}
+
+.carouselContent::-webkit-scrollbar-track {
+    background: rgba(33, 122, 244, .1);
+    /*스크롤바 뒷 배경 색상*/
 }

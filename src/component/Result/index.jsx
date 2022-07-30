@@ -7,6 +7,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './index.css';
 import Halley from '../../images/halley.png';
+import swapPath from '../../images/swapPath.png'
 function Result() {
     
     var settings = {
@@ -22,23 +23,23 @@ function Result() {
         <div className='Main-section'></div>
         <div className="Result-section">
         <Slider {...settings}>
-          <div className='carouselContent'>
-            1
+          <div className='carouselContent bestOne'>
+            <img style={{margin:'auto'}}src={swapPath}/>
           </div>
           <div className='carouselContent'>
-            2
+          <img style={{margin:'auto'}}src={swapPath}/>
           </div>
           <div className='carouselContent'>
-           3
+          <img style={{margin:'auto'}}src={swapPath}/>
           </div>
           <div className='carouselContent'>
-            4            
+          <img style={{margin:'auto'}}src={swapPath}/>            
           </div>
           <div className='carouselContent'>
-           5
+          <img style={{margin:'auto'}}src={swapPath}/>
           </div>
           <div className='carouselContent'>
-            6
+          <img style={{margin:'auto'}}src={swapPath}/>
           </div>
         </Slider>
         </div>

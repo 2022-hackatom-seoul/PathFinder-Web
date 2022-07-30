@@ -40,7 +40,11 @@
     align-items: center;
 }
 
-.MyAssets-bar select {
+select {
     height: 20px;
     margin-right: 30px;
+    border: none;
+    border-radius: 30px;
+    margin: 10px;
+    background-image: linear-gradient(to right, rgba(201, 55, 224, 0.427) 0%, rgba(34, 158, 211, 0.419) 100%);
 }

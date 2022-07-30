@@ -21,27 +21,25 @@
 }
 
 .Main-content {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-around;
-    position: relative;
-    top: 20px;
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    position: absolute;
+    top: 33vh;
+    left: 15%;
 }
 
-.Main-content div {
-    background-color: rgba(0, 0, 0, 0.726);
-    border-radius: 30px;
-    width: 40%;
-    height: 90%;
-    text-align: center;
-    color: white;
-    z-index: 1;
+.Main-content h1 {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
 }
 
 .informUs {
     text-align: center;
     color: white;
     margin-top: 20px;
-    ;
 }
