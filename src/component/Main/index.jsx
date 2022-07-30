@@ -14,15 +14,9 @@ function Main() {
       <div className="Main-content">
           <h1>LOW RISK</h1>
           <h1>HIGH RETURN</h1>
+          <p style={{fontSize:'20px',color:'white'}}>The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.</p>
       </div>
-      <img style={{width:'50%',
-    height: '200px',
-    margin: 'auto',
-    position: 'absolute',
-    top: '60vh',
-    left: '15%'}}src={Logo}/>
       <div className="informUs">
-      <Link to='/result'>냐옹</Link>
       <img className="HalleyLogo" src={Halley}></img>
       </div>
     </div>

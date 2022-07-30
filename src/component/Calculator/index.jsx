@@ -1,6 +1,7 @@
 import './index.css';
 import Nav from '../Nav';
 import Halley from '../../images/halley.png';
+import Slippage from '../../images/slippage.png';
 import Juno from '../../images/juno.png';
 import Osmo from '../../images/osmo.png';
 import Atom from '../../images/atom.png';
@@ -53,22 +54,21 @@ function Calculator() {
                 <div className='title-2'>
                         <h1>Swap Type</h1>
                     </div>
-                    <select name="chain">
+                    <select style={{width:'80px'}}name="chain">
     <option value="">Select Swap</option>
-    <option value="Juno">Juno</option>
-    <option value="Osmosis" selected="selected">Osmosis</option>
+    <option value="Juno">Atom</option>
+    <option value="Osmosis" selected="selected">Osmo</option>
  
 </select>
-<input />
+<input style={{padding:'0 20px',marginBottom:'20px',height:'30px',borderRadius:"30px"}}/>
 <hr style={{width:'300px'}}/>
-<Link to='/result'>CALCULATE</Link>
+<img style={{width:'300px'}}src={Slippage}/>
+<Link to='/result'><button  style={{background:'linear-gradient(to right, rgba(161, 140, 209, 1), rgba(251, 194, 235, 1))',border:'none',borderRadius:"20px",height:'50px',marginTop:'20px'}}>CALCULATE</button></Link>
                 </div>
                 {/* <hr style={{width:'300px',backgroundColor:'black'}}/>
                 <img src={settings} style={{width:'35px'}}/> */}
             </div>
             
-            <div>
-            </div>
         </div>
 
         <div className="informUs">

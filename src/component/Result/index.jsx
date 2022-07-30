@@ -44,7 +44,6 @@ function Result() {
         </Slider>
         </div>
         <div className="informUs">
-      <Link to='/result'>냐옹</Link>
       <img className="HalleyLogo"  src={Halley}></img>
       </div>
         </div>);
