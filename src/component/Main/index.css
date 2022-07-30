@@ -1,0 +1,47 @@
+.Main-section {
+    width: 80%;
+    height: 70vh;
+    margin: auto;
+    margin-top: 0.5vh;
+    position: relative;
+    border: 5px solid transparent;
+    border-radius: 30px;
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    background: linear-gradient(45deg, rgba(202, 55, 224, 1), rgba(34, 159, 211, 1)) border-box;
+    /*3*/
+    -webkit-mask: /*4*/
+    linear-gradient(#fff 0 0) padding-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    /*5'*/
+    mask-composite: exclude;
+    position: relative;
+    z-index: 0;
+    /*5*/
+}
+
+.Main-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: relative;
+    top: 20px;
+}
+
+.Main-content div {
+    background-color: rgba(0, 0, 0, 0.726);
+    border-radius: 30px;
+    width: 40%;
+    height: 90%;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.informUs {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    ;
+}

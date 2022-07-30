@@ -1,0 +1,46 @@
+.Asset-section {
+    position: absolute;
+    top: 25vh;
+    left: 15%;
+}
+
+.MyAssets {
+    width: 70vw;
+    height: 30vh;
+    background-color: rgba(0, 0, 0, 0.486);
+    border-radius: 30px;
+}
+
+.MyAssets h2 {
+    color: white;
+    margin-left: 30px
+}
+
+.Assets-sub h2 {
+    color: white;
+    margin-left: 30px
+}
+
+.Assets-sub {
+    height: 31vh;
+    background-color: rgba(0, 0, 0, 0.486);
+    border-radius: 30px;
+}
+
+.MyAssets-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.MyAssets-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.MyAssets-bar select {
+    height: 20px;
+    margin-right: 30px;
+}

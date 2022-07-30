@@ -1,0 +1,51 @@
+.Nav {
+    height: 18vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto 30px;
+    margin-bottom: 3vh;
+    align-items: center;
+}
+
+.Nav img {
+    height: 10vh;
+}
+
+.Connect-button {
+    width: 120px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, rgba(202, 55, 224, 1) 0%, rgba(34, 159, 211, 1) 100%);
+    margin: 23px 0 !important;
+    color: white !important;
+    font-family: Pretendard;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    text-shadow: 3px 2px 5px rgb(0 0 0 / 25%);
+}
+
+.Nav-button button {
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    margin: 0 30px;
+    background: linear-gradient(90deg, #ffffff 0%, #ffffff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 1px rgba(3, 2, 2, 0.178)ff;
+}
+
+.Nav-button {
+    margin-right: 50px;
+}
+
+.Nav-buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

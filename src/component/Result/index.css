@@ -1,0 +1,15 @@
+.carouselContent {
+    width: 100px;
+    height: 500px;
+    background-color: rgb(197, 197, 197);
+    margin: auto;
+}
+
+.Result-section {
+    width: 70%;
+    height: 500px;
+    margin: auto;
+    position: absolute;
+    top: 30vh;
+    left: 15%;
+}
