@@ -50,6 +50,6 @@ You may also see any lint errors in the console.
 ## Developments
 | JavaScript | React Native | AWS | JUNO |
 | :--------: | :--------: | :--------: | :--------: |  
-|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  <img src="https://user-images.githubusercontent.com/72171903/180640959-031a6856-aec8-47af-bf13-5cea5bf41214.png" width="150" /> | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | ![juno](https://user-images.githubusercontent.com/88828307/182006017-d153d91a-550d-4b27-b120-8d8e5c49b256.svg)
+|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  <img src="https://user-images.githubusercontent.com/72171903/180640959-031a6856-aec8-47af-bf13-5cea5bf41214.png" width="150" /> | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | ![juno](https://user-images.githubusercontent.com/88828307/182006017-d153d91a-550d-4b27-b120-8d8e5c49b256.svg){: width="100" height="100"}
 
 
