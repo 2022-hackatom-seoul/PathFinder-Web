@@ -1,9 +1,9 @@
-# Path Finder
+# Path Finder ![pathfinder](https://user-images.githubusercontent.com/88828307/182005917-1909988c-900e-464f-af74-4863a996e642.png)
 
 The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.
 ![git1](https://user-images.githubusercontent.com/88828307/182005372-46b0a193-c8c9-4894-a62b-7550de73649c.png)
 
-## Teams | Halley
+## Teams | Halley ![halley](https://user-images.githubusercontent.com/88828307/182005913-93dc2abd-ce73-446d-8737-e9cb1414c2e7.png)
 | Chaerin Kim | Juhyeon Im | Jiyeon Kim |
 | :--------: | :--------: | :--------: | 
 | PM, developer | PM, designer | developer | 
