@@ -9,7 +9,8 @@ The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.
 ## Teams | Halley 
 | Chaerin Kim | Juhyeon Im | Jiyeon Kim |
 | :--------: | :--------: | :--------: | 
-| PM, developer | PM, designer | developer | 
+| PM, developer | PM, designer | developer |
+
 ![halley](https://user-images.githubusercontent.com/88828307/182005913-93dc2abd-ce73-446d-8737-e9cb1414c2e7.png)
 
 ## Available Scripts
