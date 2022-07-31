@@ -26,8 +26,8 @@ function Assets() {
         
             </div>
             <div style={{width:'70%',display:'flex',flexDirection:"row"}}>
-            <div style={{margin:'40px'}}><h3 style={{color:'white'}}>Total Assets</h3><h1 style={{color:'white'}}>$0</h1></div>
-            <div style={{margin:'40px'}}><h3 style={{color:'white'}}>Unbonded Assets</h3><h1 style={{color:'white'}}>$0</h1></div>
+            <div style={{margin:'40px'}}><h3 style={{color:'white'}}>Total Assets</h3><h1 style={{color:'white'}}>$45.11</h1></div>
+            <div style={{margin:'40px'}}><h3 style={{color:'white'}}>Unbonded Assets</h3><h1 style={{color:'white'}}>$45.11</h1></div>
             <div style={{margin:'40px'}}><h3 style={{color:'white'}}>Bonded Assets</h3><h1 style={{color:'white'}}>$0</h1></div>
             </div>
         </div>
@@ -57,7 +57,7 @@ function Assets() {
                 <p>Withdraw</p></div>
                 
               <div className="indv-asset"><h3>JUNO</h3>
-                <p>0</p><p>Deposit</p>
+                <p>9.99</p><p>Deposit</p>
                 <p>Withdraw</p></div>
               <div className="indv-asset"><h3>WETH</h3>
                 <p>0</p><p>Deposit</p>

@@ -20,7 +20,7 @@ function Calculator() {
             <div className='JunoOsmosis'>
                 <div className='Juno'>
                     <div className='title'>
-                        <img src={Juno}/>
+                        <img  style={{width:'40px',height:'40px'}}src={Juno}/>
                         <h1>Juno</h1>
                     </div>
                     {/*여기가 바로 데이터가 바 */}
@@ -30,7 +30,7 @@ function Calculator() {
                 </div>
                 <div className='Osmosis'>
                     <div className='title'>
-                        <img src={Osmo}/>
+                        <img style={{width:'40px',height:'40px'}} src={Osmo}/>
                         <h1>Osmosis</h1>
                     </div>
                     <div className='title-content'>

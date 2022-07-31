@@ -7,7 +7,8 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import './index.css';
 import Halley from '../../images/halley.png';
-import swapPath from '../../images/swapPath.png'
+import swapPath1 from '../../images/swappath1.png'
+import swapPath2 from '../../images/swappath2.png'
 function Result() {
     
     var settings = {
@@ -24,22 +25,22 @@ function Result() {
         <div className="Result-section">
         <Slider {...settings}>
           <div className='carouselContent bestOne'>
-            <img style={{margin:'auto'}}src={swapPath}/>
+            <img style={{margin:'auto'}}src={swapPath1}/>
           </div>
           <div className='carouselContent'>
-          <img style={{margin:'auto'}}src={swapPath}/>
+          <img style={{margin:'auto'}}src={swapPath2}/>
           </div>
           <div className='carouselContent'>
-          <img style={{margin:'auto'}}src={swapPath}/>
+          <img style={{margin:'auto'}}src={swapPath2}/>
           </div>
           <div className='carouselContent'>
-          <img style={{margin:'auto'}}src={swapPath}/>            
+          <img style={{margin:'auto'}}src={swapPath1}/>            
           </div>
           <div className='carouselContent'>
-          <img style={{margin:'auto'}}src={swapPath}/>
+          <img style={{margin:'auto'}}src={swapPath1}/>
           </div>
           <div className='carouselContent'>
-          <img style={{margin:'auto'}}src={swapPath}/>
+          <img style={{margin:'auto'}}src={swapPath2}/>
           </div>
         </Slider>
         </div>
