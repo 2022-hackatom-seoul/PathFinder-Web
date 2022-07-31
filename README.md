@@ -53,11 +53,11 @@ You may also see any lint errors in the console.
 * Slippage : The expected slippage is different for each swap amount and the higher the swap amount, the higher the expected slippage.
 * Swap Fee : Since the fee is different for each swap amount, calculate this to reduce the total swap cost
 
-![Slide 4_3 - 8](https://user-images.githubusercontent.com/88828307/182007821-ac85d50d-b0d6-4aa8-a6ec-d021f65ef77c.png)
+![Slide 4_3 - 8](https://user-images.githubusercontent.com/88828307/182008543-178c642f-8398-47ad-983a-447f725e470c.png)
 ### How can we calculate the most efficient case?
 * Making New DP(Dynamic Programming) Algorithms
 * but, Initially, brute force must be used to gather diverse information
-
+* We are using React js(Web Publishing + getting data), AWS(web server), Python(Data anaysis, dex data api bot), Mongo DB(save data), keplr(wallet), and JUNO(platform chain : CW-20 token contract) for developments!
 ## Developments
 | JavaScript | React | AWS | Python | Mongo DB | Keplr | JUNO |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |   
