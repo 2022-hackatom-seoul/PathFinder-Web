@@ -13,6 +13,8 @@ The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.
 | :--------: | :--------: | :--------: | 
 | PM, developer | PM, designer | developer |
 
+Ewha Womans University Team [About Ewhachain](https://twitter.com/Ewhachain)
+
 ## Available Scripts
 
 In the project directory, you can run:
