@@ -59,8 +59,8 @@ You may also see any lint errors in the console.
 * but, Initially, brute force must be used to gather diverse information
 
 ## Developments
-| JavaScript | React | AWS | Python | Mongo DB | Keplr |
-| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |   
-|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  ![image 48](https://user-images.githubusercontent.com/88828307/182008259-e9ccaa99-0b95-4181-8ddc-20c2ecff718f.png) | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | ![image 49](https://user-images.githubusercontent.com/88828307/182008258-8e553c27-4127-4b79-8501-11637546477b.png) | ![image 51](https://user-images.githubusercontent.com/88828307/182008341-67f90cb8-5f61-4d55-b1b7-fc8b27450975.png) | ![image 50](https://user-images.githubusercontent.com/88828307/182008340-20bcb240-8fed-4bf9-b519-783009b3ffb4.png) |
+| JavaScript | React | AWS | Python | Mongo DB | Keplr | JUNO |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |   
+|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  ![image 48](https://user-images.githubusercontent.com/88828307/182008259-e9ccaa99-0b95-4181-8ddc-20c2ecff718f.png) | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | ![image 49](https://user-images.githubusercontent.com/88828307/182008258-8e553c27-4127-4b79-8501-11637546477b.png) | ![image 51](https://user-images.githubusercontent.com/88828307/182008341-67f90cb8-5f61-4d55-b1b7-fc8b27450975.png) | ![image 50](https://user-images.githubusercontent.com/88828307/182008340-20bcb240-8fed-4bf9-b519-783009b3ffb4.png) | ![image 52](https://user-images.githubusercontent.com/88828307/182008430-f4eb94d4-efb8-4099-abe5-ee10f71795d6.png)
 
 
