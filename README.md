@@ -47,6 +47,17 @@ You may also see any lint errors in the console.
 ### Path Finder is the Aggrigator Platform for the most efficient swap path in the IBC ecosystem. 
 ![git6](https://user-images.githubusercontent.com/88828307/182005618-b9ff1710-5f23-4994-a135-89b09e5f2e66.png)
 
+### In the Process of Gathering, Path.Finder tells you which path you should go, to get large swap with the least money.
+![Slide 4_3 - 7](https://user-images.githubusercontent.com/88828307/182007820-cdeb827b-42c6-45db-8798-7ec24b09175a.png)
+* Arbitrage : Analyze liquidity to see where to swap to get a lot of tokens
+* Slippage : The expected slippage is different for each swap amount and the higher the swap amount, the higher the expected slippage.
+* Swap Fee : Since the fee is different for each swap amount, calculate this to reduce the total swap cost
+
+![Slide 4_3 - 8](https://user-images.githubusercontent.com/88828307/182007821-ac85d50d-b0d6-4aa8-a6ec-d021f65ef77c.png)
+### How can we calculate the most efficient case?
+* Making New DP(Dynamic Programming) Algorithms
+* but, Initially, brute force must be used to gather diverse information
+
 ## Developments
 | JavaScript | React Native | AWS | JUNO |
 | :--------: | :--------: | :--------: | :--------: |  
