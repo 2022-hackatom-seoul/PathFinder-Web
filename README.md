@@ -59,8 +59,8 @@ You may also see any lint errors in the console.
 * but, Initially, brute force must be used to gather diverse information
 
 ## Developments
-| JavaScript | React Native | AWS | JUNO |
+| JavaScript | React | AWS |  |
 | :--------: | :--------: | :--------: | :--------: |  
-|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  <img src="https://user-images.githubusercontent.com/72171903/180640959-031a6856-aec8-47af-bf13-5cea5bf41214.png" width="150" /> | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | 
+|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  ![image 48](https://user-images.githubusercontent.com/88828307/182008259-e9ccaa99-0b95-4181-8ddc-20c2ecff718f.png) | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png) | ![image 49](https://user-images.githubusercontent.com/88828307/182008258-8e553c27-4127-4b79-8501-11637546477b.png) | 
 
 
