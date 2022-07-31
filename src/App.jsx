@@ -6,6 +6,7 @@ import Result from './component/Result';
 import Assets from './component/Assets';
 import Calculator from './component/Calculator';
 import AboutUs from './component/AboutUs';
+import Membership from './component/Membership';
 import { Route, Link,Routes } from 'react-router-dom';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route path="/assets" element={<Assets />}></Route>
           <Route path="/calculator" element={<Calculator />}></Route>
           <Route path="/aboutus" element={<AboutUs />}></Route>
+          <Route path="/membership" element={<Membership />}></Route>
 		</Routes>
       {/* <Nav/>
       <Main/> */}
