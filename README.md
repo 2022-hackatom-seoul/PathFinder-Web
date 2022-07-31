@@ -7,11 +7,11 @@ The Aggrigator Platform for the most efficient swap path in the IBC ecosystem.
 ![git1](https://user-images.githubusercontent.com/88828307/182005372-46b0a193-c8c9-4894-a62b-7550de73649c.png)
 
 ## Teams | Halley 
+![halley](https://user-images.githubusercontent.com/88828307/182005913-93dc2abd-ce73-446d-8737-e9cb1414c2e7.png)
+
 | Chaerin Kim | Juhyeon Im | Jiyeon Kim |
 | :--------: | :--------: | :--------: | 
 | PM, developer | PM, designer | developer |
-
-![halley](https://user-images.githubusercontent.com/88828307/182005913-93dc2abd-ce73-446d-8737-e9cb1414c2e7.png)
 
 ## Available Scripts
 
@@ -50,4 +50,5 @@ You may also see any lint errors in the console.
 ## Developments
 | JavaScript | React Native | AWS | JUNO |
 | :--------: | :--------: | :--------: | :--------: |  
-|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  <img src="https://user-images.githubusercontent.com/72171903/180640959-031a6856-aec8-47af-bf13-5cea5bf41214.png" width="150" /> 
+|   ![image](https://user-images.githubusercontent.com/72171903/180640940-cff8ce3c-1f89-44be-880c-9e64e95b0a7c.png)    |  <img src="https://user-images.githubusercontent.com/72171903/180640959-031a6856-aec8-47af-bf13-5cea5bf41214.png" width="150" /> | ![aws](https://user-images.githubusercontent.com/88828307/182005978-23677fd4-f6fe-4675-b1c6-f9f8f0f25a42.png)
+
